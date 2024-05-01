@@ -11,7 +11,7 @@ function Header() {
         <div className='w-full border-r mb-2 md:mr-auto'>
             <div className='bg-white h-5 pt-0.5'>
                 <div className='bg-black w-20 h-full ml-1 rounded-t-lg '>
-                    <p className='text-sm pl-1 text-white'>Perfil</p>
+                    <p className='text-sm pl-1 pr-1 text-white'>Perfil</p>
                 </div>
             </div>
             <div className='p-4'>
@@ -33,7 +33,7 @@ function Header() {
         <div className='w-full  border-r mb-2 md:mr-auto'>
             <div className='bg-white h-5 pt-0.5'>
                 <div className='bg-black w-20 h-full ml-1 rounded-t-lg '>
-                    <p className='text-sm pl-1 text-white'>Habilidades</p>
+                    <p className='text-sm pl-1 pr-1 text-white'>Habilidades</p>
                 </div>
             </div>
             <div className='p-4 grid grid-cols-2 md:grid-cols-3 gap-4'>
